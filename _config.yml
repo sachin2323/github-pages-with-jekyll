@@ -1,6 +1,3 @@
----
-title: "tp"
-date: 2019-01-06
 
 
 title: ssach
@@ -18,4 +15,4 @@ github_username:  sachin2323
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
